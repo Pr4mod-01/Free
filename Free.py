@@ -3130,7 +3130,7 @@ def main():
 
 
 
-	print(" \x1b[1;92m   [A] START CLONING\n")
+	print(" \x1b[1;92m   [1] START CLONING\n")
 
 
 
